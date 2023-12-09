@@ -1,0 +1,11 @@
+{
+    "id": "24HourTimestamps",
+    "name": "24 Hour Timestamps",
+    "description": "Transforms all timestamps into 24 hour timestamps.",
+    "requiredPermissions": 0,
+    "author": "m6YxwpQd",
+    "contributors": [],
+    "version": "1.0.0",
+    "repoUrl": "https://github.com/reapimus/rgplugins/tree/main/24%20Hour%20Timestamps",
+    "files": "script.js"
+}
