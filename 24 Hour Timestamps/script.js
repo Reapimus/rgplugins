@@ -6,7 +6,7 @@ module.exports = {
     load() {
         console.log("24 hour timestamps loaded");
         moment.prototype.format = function (str) {
-            str = str.replace("h", "H");
+            str = str.replace("h:mm A", "HH:mm");
             return window._momentFormat.bind(this)(str);
         };
     },
